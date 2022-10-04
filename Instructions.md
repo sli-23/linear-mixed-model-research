@@ -15,12 +15,12 @@ Therefore:
 * We would like to understand how the LMM estimation works (internally) if the covariance matrix is not block-diagonal 
 * We would like to fit such models in Julia
 
-Goal: 
+**Goal**: 
 * Produce a handbook that outlines the problem, ... 
 * how to tackle it, ... 
 * and offers an implementation in Julia. 
 
-The first steps should be: 
+**The first steps should be**: 
 * Get to know Julia (https://julialang.org, https://docs.julialang.org/en/v1/) 
 * State simple LMM (random intercept model) and implement its estimation (for now, assume we know the variance components / use synthetic data) 
 * Extend the implementation to time series Demidenko, Section 4.3.4
