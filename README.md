@@ -1,10 +1,14 @@
 # Linear Mixed Model Research
 
-* Linear Mixed Model Research
-  * Introduction
-    * Theory of Linear Mixed Models
-  * Contents
-  * Reference
+### Preface
+
+{% hint style="info" %}
+This notebook is for research of Linear Mixed Model from Prof. Kramlinger in UC Davis. All notes from textbook and online resources will be referenced in each page.
+{% endhint %}
+
+{% hint style="warning" %}
+The notebook contains Chinese and English.
+{% endhint %}
 
 ### Introduction
 
@@ -26,12 +30,6 @@ In more specific,
 $$
 \overbrace{y}^{N \times 1} = \overbrace{\underbrace{X}_{X \times p} \quad \underbrace{\beta}_{p \times 1}}^{X \times 1} + \overbrace{\underbrace{Z}_{N \times qJ} \quad \underbrace{u}_{qJ \times 1}}^{N \times 1} + \overbrace{\varepsilon}^{N \times 1}
 $$
-
-**Example**:
-
-### Contents
-
-1. Non-Parametric Models
 
 ### Reference
 

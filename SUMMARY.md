@@ -1,5 +1,11 @@
 # Table of contents
 
 * [Linear Mixed Model Research](README.md)
-* [Page 2](page-2.md)
-* [Page 3](page-3.md)
+
+## Information
+
+* [Instructions from Prof. Kramlinger](information/instructions-from-prof.-kramlinger.md)
+
+## Nonparametric Statistical Models
+
+* [Page 2](nonparametric-statistical-models/page-2.md)
