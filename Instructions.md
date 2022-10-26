@@ -11,7 +11,7 @@ I’d like to follow up to my presentation on Wednesday.  The fundamental proble
 * lme4 works well in R and Julia, but can't treat such cases
 * nlme can treat such cases, but doesn't work in Julia
 
-Therefore: 
+**Therefore**: 
 * We would like to understand how the LMM estimation works (internally) if the covariance matrix is not block-diagonal 
 * We would like to fit such models in Julia
 
