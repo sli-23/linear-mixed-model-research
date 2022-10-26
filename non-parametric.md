@@ -15,7 +15,7 @@
   * 更加关注数据先后顺序，显得更加powerful。
   * 利用数据本身的序列进行检验和预测。
 
-A statistical model for a random observation $Y$ is a family $$\{ P_f: f \in \mathcal{F}\}$$ of probability distributions $P\_f$, each of which is a candidate for having generated the observation $Y$. The parameter $f$ belongs to the _parameter spac_e\* $\mathcal{F}$. The problem of _statistical inference_ on $f$ , broadly speaking, can be divided into three intimately connected problems of using the observation $Y$ to
+A statistical model for a random observation $Y$ is a family $$\\{ P_f: f \in \mathcal{F} \\}$$ of probability distributions $P_f$, each of which is a candidate for having generated the observation $Y$. The parameter $f$ belongs to the *parameter space* $\mathcal{F}$. The problem of _statistical inference_ on $f$ , broadly speaking, can be divided into three intimately connected problems of using the observation $Y$ to
 
 1. _Estimate_ the parameter $f$ by an estimator $T(Y)$,
 2. _Test hypotheses_ on f based on test functions $\Psi(Y)$ and/or
