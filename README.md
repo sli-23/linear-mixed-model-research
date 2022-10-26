@@ -1,9 +1,5 @@
 # Linear Mixed Model Research
 
-
-
-## Linear Mixed Model Notes
-
 * Linear Mixed Model Research
   * Introduction
     * Theory of Linear Mixed Models
