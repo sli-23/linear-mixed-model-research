@@ -8,4 +8,4 @@
 
 ## Nonparametric Statistical Models
 
-* [Page 2](nonparametric-statistical-models/page-2.md)
+* [What is nonparametric statistical models?](nonparametric-statistical-models/what-is-nonparametric-statistical-models.md)
