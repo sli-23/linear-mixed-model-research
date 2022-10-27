@@ -2,7 +2,9 @@
 
 ### Preface
 
-111
+{% hint style="warning" %}
+This research notebook contains Chinese and English.
+{% endhint %}
 
 ### Introduction
 
