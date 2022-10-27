@@ -6,6 +6,12 @@
 This research notebook contains Chinese and English.
 {% endhint %}
 
+{% hint style="info" %}
+This research notebook is for learning and doing research with Prof. Kramlinger in UC Davis. All notes
+{% endhint %}
+
+###
+
 ### Introduction
 
 Linear mixed models are an extension of simple linear models to allow both fixed and random effects, and are particularly used when there is non independence in the data, such as arises from a **hierarchical structure**.
