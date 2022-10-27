@@ -7,10 +7,10 @@ This research notebook contains Chinese and English.
 {% endhint %}
 
 {% hint style="info" %}
-This research notebook is for learning and doing research with Prof. Kramlinger in UC Davis. All notes
+This research notebook is for learning and doing research with Prof. Kramlinger in UC Davis. All notes are from online and textbook.
 {% endhint %}
 
-###
+
 
 ### Introduction
 
@@ -32,6 +32,16 @@ In more specific,
 $$
 \overbrace{y}^{N \times 1} = \overbrace{\underbrace{X}_{X \times p} \quad \underbrace{\beta}_{p \times 1}}^{X \times 1} + \overbrace{\underbrace{Z}_{N \times qJ} \quad \underbrace{u}_{qJ \times 1}}^{N \times 1} + \overbrace{\varepsilon}^{N \times 1}
 $$
+
+{% tabs %}
+{% tab title="Example #1" %}
+
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
 
 ### Reference
 
