@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Research Notebook](README.md)
-* [Linear Mixed Model Research](<README (1).md>)
+* [Linear Mixed Model Research](README.md)
 
 ## Information
 
